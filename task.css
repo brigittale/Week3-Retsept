@@ -1,0 +1,51 @@
+body {
+    background-color: antiquewhite;
+}
+
+.playground-heading {
+    color: rgba(28, 159, 168, 0.801);
+    font-family: 'Supermercado One', cursive;
+    font-size: 2.5rem;
+}
+
+.img {
+    text-align: center;
+}
+
+.ingredients {
+    color: darkslategray;
+    border: 1px solid burlywood;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+} 
+
+.ingredients-table {
+    margin: 0 auto;
+}
+
+.juhendid {
+    color: firebrick;
+    border: 1px solid burlywood;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.juhendid ol {
+margin: 0 auto;
+width: 75%;
+}
+
+.footer {
+color: cadetblue;
+ font-family: 'EB Garamond', serif;
+ font-size: 1rem;
+text-align: center;
+}
+
+.heading {
+    text-align: center;
+}
